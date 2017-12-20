@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "sandstone.net",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"planets",
+		"distance",
+		"speed"
+	],
+	"name" : "Galaxy",
+	"type" : "normal"
+}
